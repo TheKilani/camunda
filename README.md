@@ -1,3 +1,7 @@
+
+A Demo of the App can be found on my website:   https://www.thekilani.com/camunda/public/
+
+
 # PHP Animal Picture App (Microservice)
 
 A small dependency-free PHP microservice (plus a tiny UI) that fetches random pictures of **cats**, **dogs**, or **bears**, stores them in **SQLite**, and exposes REST endpoints to retrieve them.
