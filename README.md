@@ -33,7 +33,7 @@ The DB file is created automatically on first run.
 
 ## Run without Docker (Windows / XAMPP)
 
-> You said you’re using XAMPP; the command below uses **full paths**.
+> XAMPP the command below uses **full paths**.
 
 From your project folder (or anywhere), run:
 
