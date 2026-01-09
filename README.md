@@ -9,6 +9,8 @@ A small dependency-free PHP microservice (plus a tiny UI) that fetches random pi
 Image sources (as requested):
 - Cats: `https://cataas.com/cat`
 - Dogs: `https://place.dog/300/200`
+
+for this link i had actually to do a rand function - like this  `https://placebear.com/rand(x)/rand(y)` for some reason for this url if i send 200/300 each time i get the same photo so that fixed it apperantly. 
 - Bears: `https://placebear.com/200/300`
 
 ## Features
