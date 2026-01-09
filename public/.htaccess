@@ -1,0 +1,7 @@
+# Route all non-file/non-directory requests to the front controller.
+# This makes /api/* paths work when hosting under Apache.
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [L]
